@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7ffadf6f.css","mappings":"AAAA,EAEE,QAAS,CADT,SAGF,CACA,KACE,0EAAwC,CAExC,UACF","sources":["App.css"],"sourcesContent":["*{\n  padding: 0;\n  margin: 0;\n  \n}\n.App{\n  background-image:url(../src/image/p.jpg);\n  /* height: 100%; */\n  width: 100%;\n}"],"names":[],"sourceRoot":""}

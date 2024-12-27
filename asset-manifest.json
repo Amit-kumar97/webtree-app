@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webtree-app/static/css/main.7ffadf6f.css",
+    "main.js": "/webtree-app/static/js/main.253a6827.js",
+    "static/media/p.jpg": "/webtree-app/static/media/p.d1e8d69614791050d091.jpg",
+    "index.html": "/webtree-app/index.html",
+    "main.7ffadf6f.css.map": "/webtree-app/static/css/main.7ffadf6f.css.map",
+    "main.253a6827.js.map": "/webtree-app/static/js/main.253a6827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ffadf6f.css",
+    "static/js/main.253a6827.js"
+  ]
+}
